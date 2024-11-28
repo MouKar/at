@@ -45,5 +45,5 @@ def process_csv(file_path):
 
 if __name__ == "__main__":
     # File path to your CSV data
-    file_path = 'data.csv'  # Replace with your actual file path
+    file_path = 'testing.csv'  # Replace with your actual file path
     process_csv(file_path)
